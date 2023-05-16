@@ -1,0 +1,228 @@
+
+body{
+  margin: 0%;
+}
+.one { 
+    height: 35px;
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient( to right, red, green, yellow);
+    margin-bottom: 20px;
+    }
+
+
+.offer { 
+  text-decoration: underline;
+   padding-top: 5px;
+   font-weight: bold;
+   }
+
+   
+.two{
+  margin: auto;
+   border: 5px solid red;
+     height: 90px;
+     width: 500px;
+     background-color: skyblue;
+     border-radius: 15px;
+   }
+
+
+
+.bullet {
+   text-align: center;
+  padding: 0px 150px;
+    }
+
+
+.three { border: 1px solid black;
+    height: 170px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: aquamarine;
+    display: flex;
+
+}
+
+
+.first { border: 3px solid green;
+      height: 80px;
+      width: 400px;
+      color: black;
+      background-color: rgb(148, 255, 241);
+      border-radius: 10px;
+      font-size: 12px;
+      text-align: center;
+      margin-left: 5px;
+    }
+.second { border: 3px solid green;
+      height: 80px;
+      width: 400px;
+      font-size: 12px;
+      background-color: rgb(148, 255, 241);
+      border-radius: 10px; 
+      text-align: center;
+      margin-left: 10px;
+     }
+     
+     
+.third { border: 3px solid green;
+      height: 80px;
+      width: 400px;
+      font-size: 12px;margin-top: 20px;
+      background-color: rgb(148, 255, 241);
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 85px;
+      margin-left: -405px;
+      }
+
+
+.fourth {  border: 3px solid green;
+    height: 80px;
+    width: 400px;
+    
+    font-size: 12px;
+    background-color: rgb(148, 255, 241);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 53px;
+    }
+
+.four { border: 1px solid rgb(255, 0, 0);
+    height: 30px;
+    width:100%;
+    margin-top: 20px;
+    font-size:18px;
+    background-image: linear-gradient(to right, red,yellow, red); 
+   }
+
+
+.line  { text-align: center;
+  text-decoration: underline;
+ 
+     }
+
+
+.five {  border: 2px solid green;
+     height: 350px;
+     margin-top: 20px;
+     width: 100%;
+     background-image: radial-gradient(ellipse at center , blue, skyblue, green);
+     display: flex;
+     flex-direction: row;
+     text-align: center;
+     gap:150px;
+    }
+
+
+.name {  border: 3px solid rgb(163, 28, 28);
+       border-radius: 20px;
+       height: 130px;
+       width: 210px;
+       background-color: rgb(212, 212, 45);
+       margin-top: 85px;
+       color: brown;
+       margin-left: 20px;
+    }
+
+
+.six   { border: 1px solid grey;
+      height: 35px;
+      width: 100%;
+      margin-top: 20px;
+      text-align: center;
+      color: white;
+      background-color: rgb(235, 38, 38);
+    }
+
+
+.heading { margin-top: -15px;}
+
+
+.seven{
+    display:flex;
+    gap: 5px;
+    margin-top: 20px;
+    
+
+}
+
+.box1{ border: 1 px solid grey;
+      height: 70px;
+      width: 380px;
+      color: white;
+      text-align: center;
+      background-color: green;
+      font-size: 20px;
+    }
+
+
+.box2 {
+    border: 1 px solid grey;
+    height: 70px;
+    width: 380px;
+    color: whitesmoke;
+    text-align: left;
+    background-color: skyblue;
+    font-size: 20px;
+     }
+
+
+.box3{
+    border: 1 px solid grey;
+    height: 70px;
+    width: 383px;
+    color: whitesmoke;
+    text-align: left;
+    background-color: blue;
+    font-size: 20px;
+    }
+
+
+
+.eight {
+    border: 3px solid rgb(233, 224, 224);
+    height: 150px;
+    width: 85%;
+    color: whitesmoke;
+    background-color: orange;
+    display: block;
+  }
+
+.text {margin-top: -15px; }
+
+.nine {
+    border: 1px solid grey;
+    height: 243px;
+    width: 180px;
+    margin-top: -245px;
+    background-color: black;
+    display: block;
+    margin-left: 1160px;
+  }
+
+
+.textline{ 
+    color: white;
+    font-size: 18px;
+}
+
+
+
+.ten {
+    border: 1 px solid grey;
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    background-color: aquamarine;
+  }
+
+
+.table { border: 1px solid gray;
+        width: 100%;
+
+
+      }
